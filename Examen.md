@@ -28,3 +28,14 @@ Dentro de cada tecnología se encuentra la definición de un proyecto ejemplo
 ```
 Por esto, tendrán que probar su software final con alguien de su casa
 ```
+
+
+---
+## Calificación
+Se utilizará el siguiente estándar de calificación
+
+[30%] Documento explicando todas las características
+[40%] Video demostrando la funcionalidad
+[30%] Segmento del video demostrando que un usuario no desarrollador lo puede usar
+
+Para generar la calificación final, se tomará el resultado del proyecto y se sumará en un 40% al 60% conformado por los otros parciales.
